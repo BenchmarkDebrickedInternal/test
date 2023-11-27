@@ -16,7 +16,7 @@
       "bom-ref": "5237c49b9e2ea304",
       "type": "container",
       "name": "neo4j:4.4.5",
-      "version": "sha256:4499e1b1b70aeffc914c6e1e8cf42fc73fd57802255f4d85adfb185bd9f31dd4"
+      "version": "sha256:3499e1b1b70aeffc914c6e1e8cf42fc73fd57802255f4d85adfb185bd9f31dd4"
     }
   },
   "components": [
